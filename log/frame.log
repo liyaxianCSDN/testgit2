@@ -1,0 +1,1163 @@
+[2019-08-13 14:31:20,828]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 14:31:20,836]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 14:31:20,842]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:20,842]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:20,842]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:22,887]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 14:31:22,888]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 14:31:20.834939', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010221004486084, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 14:31:22,888]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 14:31:20.836953', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010221004486084, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 14:31:23,251]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 14:31:23,251]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 14:31:23,251]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:23,251]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:23,252]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 14:31:23,252]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 14:31:25,255]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 14:31:25,256]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 14:31:25,256]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 14:31:25,255]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 14:31:23.251706', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006656646728516, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 14:31:25,256]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 14:31:23.251706', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016708374023438, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 14:31:25,257]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 14:31:23.252706', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016708374023438, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:06,828]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:06,828]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:07,099]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:07,099]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:07,358]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:07,359]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:08,833]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:08,833]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:06.828474', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011136531829834, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:09,102]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:09,102]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:07.099198', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002286434173584, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:09,362]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:09,362]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:07.359587', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014114379882812, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:09,773]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:09,773]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:09,839]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:09,839]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:10,023]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-13 15:34:10,023]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-13 15:34:11,777]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:11,778]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:09.773485', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001105785369873, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:11,842]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:11,842]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:09.839447', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000195026397705, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-13 15:34:12,028]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-13 15:34:12,028]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-13 15:34:10.023765', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001397132873535, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:11,724]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:11,725]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:12,037]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:12,037]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:12,303]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:12,303]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:13,728]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:13,728]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:11.725457', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007641315460205, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:14,041]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:14,041]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:12.037937', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015575885772705, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:14,306]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:14,306]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:12.303069', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008885860443115, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:14,438]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:14,438]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:14,751]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:14,752]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:14,937]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:22:14,937]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:22:16,442]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:16,442]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:14.438898', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005104541778564, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:16,755]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:16,755]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:14.752719', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0001704692840576, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:22:16,940]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:22:16,940]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:22:14.937688', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000072479248047, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:42,743]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:42,743]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:42,901]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:42,901]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:43,183]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:43,184]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:44,747]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:44,747]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:42.743318', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001041889190674, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:44,905]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:44,905]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:42.901273', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009241104125977, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:45,187]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:45,187]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:43.184264', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010719299316406, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:45,465]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:45,465]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:45,588]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:45,588]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:45,802]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:24:45,802]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:24:47,468]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:47,468]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:45.465182', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0001423358917236, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:47,591]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:47,591]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:45.588153', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000217914581299, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:24:47,805]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:24:47,805]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:24:45.802557', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012433528900146, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:22,892]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:22,893]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:23,235]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:23,236]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:23,532]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:23,532]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:24,896]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:24,897]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:22.892045', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000547409057617, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:25,239]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:25,239]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:23.236293', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007221698760986, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:25,535]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:25,535]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:23.532358', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002965927124023, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:25,571]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:25,572]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:25,876]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:25,876]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:26,089]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:28:26,090]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:28:27,575]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:27,576]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:25.572633', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001021146774292, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:27,880]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:27,880]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:25.876357', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008223056793213, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:28:28,094]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:28:28,094]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:28:26.090889', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001354217529297, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:31,636]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:31,637]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:31,976]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:31,976]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:32,257]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:32,257]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:33,641]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:33,642]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:31.637808', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012311935424805, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:33,979]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:33,979]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:31.976161', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003058910369873, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:34,259]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:34,259]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:34,261]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:34,261]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:32.257753', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004007816314697, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:34,605]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:34,605]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:34,819]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:35:34,820]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:35:36,263]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:36,263]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:34.259167', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015201568603516, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:36,609]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:36,610]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:34.605864', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004148483276367, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:35:36,824]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:35:36,824]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:35:34.820741', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013434886932373, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:44,257]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:44,257]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:44,644]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:44,644]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:44,914]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:44,914]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:46,261]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:46,261]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:44.257403', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013701915740967, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:46,648]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:46,648]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:44.644766', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001216411590576, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:46,913]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:46,913]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:46,918]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:46,918]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:44.914612', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011885166168213, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:47,265]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:47,265]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:47,492]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 15:40:47,492]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 15:40:48,917]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:48,917]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:46.913820', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007965564727783, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:49,269]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:49,270]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:47.265792', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008726119995117, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 15:40:49,496]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 15:40:49,497]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 15:40:47.492662', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009307861328125, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:04,701]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:04,702]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:05,042]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:05,042]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:05,335]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:05,335]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:06,705]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:06,705]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:04.702418', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001073122024536, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:07,045]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:07,045]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:05.042379', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013508796691895, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:07,339]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:07,339]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:05.335546', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010008811950684, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:07,378]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:07,379]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:07,700]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:07,700]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:07,921]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 16:18:07,921]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 16:18:09,382]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:09,383]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:07.379523', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010807514190674, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:09,703]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:09,703]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:07.700339', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002284049987793, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 16:18:09,925]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 16:18:09,925]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 16:18:07.921632', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000978469848633, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:20,288]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:20,289]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:20,564]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:20,564]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:20,874]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:20,875]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:22,292]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:22,292]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:20.288990', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000596284866333, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:22,567]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:22,567]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:20.564316', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000479221343994, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:22,878]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:22,878]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:20.875151', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014424324035645, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:22,934]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:22,934]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:23,234]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:23,234]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:23,466]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-14 17:02:23,466]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-14 17:02:24,938]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:24,938]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:22.934566', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011720657348633, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:25,238]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:25,238]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:23.234990', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001246452331543, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-14 17:02:25,470]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-14 17:02:25,471]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-14 17:02:23.466563', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008931159973145, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:38:14,748]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:38:14,749]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:14,749]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:14,749]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:16,767]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:38:16,767]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:38:14.749176', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000364065170288, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:38:16,767]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:38:14.749176', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000364065170288, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:38:17,366]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:38:17,366]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:17,397]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:38:17,397]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:17,415]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:38:17,416]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:38:19,370]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:38:19,370]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:38:17.366155', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013885498046875, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:38:19,400]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:38:19,400]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:38:17.397138', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003767013549805, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:38:19,419]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:38:19,419]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:38:17.415127', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001359462738037, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:18,730]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:18,730]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:19,052]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:19,052]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:19,364]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:19,364]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:20,735]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:20,735]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:18.730581', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001462936401367, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:21,057]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:21,057]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:19.052622', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014595985412598, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:21,189]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:21,189]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:21,367]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:21,367]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:19.364477', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000743865966797, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:21,475]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:21,476]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:21,782]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:39:21,782]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:39:23,193]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:23,193]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:21.189986', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013773441314697, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:23,479]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:23,479]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:21.476149', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001471996307373, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:39:23,785]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:39:23,785]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:39:21.782188', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008933544158936, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:06,141]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:06,142]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:06,462]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:06,462]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:06,792]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:06,792]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:08,146]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:08,146]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:06.142317', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000181198120117, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:08,465]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:08,465]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:06.462145', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008368492126465, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:08,612]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:08,612]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:08,796]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:08,796]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:06.792116', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001675844192505, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:08,913]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:08,913]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:09,204]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:41:09,204]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:41:10,616]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:10,616]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:08.612878', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001087188720703, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:10,917]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:10,917]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:08.913706', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004146099090576, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:41:11,208]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:41:11,208]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:41:09.204236', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001413106918335, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:47,820]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:47,820]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:48,148]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:48,148]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:48,508]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:48,508]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:49,824]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:49,824]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:47.820250', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010182857513428, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:50,152]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:50,152]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:48.148063', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001128911972046, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:50,313]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:50,313]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:50,511]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:50,511]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:48.508576', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004098415374756, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:50,596]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:50,597]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:50,946]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:46:50,946]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:46:52,317]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:52,317]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:50.313099', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013978481292725, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:52,600]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:52,600]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:50.597936', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007317066192627, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:46:52,949]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:46:52,949]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:46:50.946095', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000863790512085, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:49,943]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:49,943]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:50,261]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:50,261]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:50,567]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:50,567]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:51,947]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:51,947]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:49.943485', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009372234344482, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:52,264]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:52,264]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:50.261301', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006754398345947, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:52,483]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:52,484]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:52,571]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:52,571]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:50.567138', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010526180267334, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:52,810]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:52,811]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:53,056]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 09:52:53,056]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 09:52:54,487]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:54,487]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:52.484848', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0001251697540283, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:54,814]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:54,814]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:52.811070', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001168966293335, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 09:52:55,060]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 09:52:55,060]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 09:52:53.056947', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000850200653076, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:54,446]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:54,447]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:54,780]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:54,781]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:55,129]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:55,129]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:56,453]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:56,453]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:54.447489', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0017454624176025, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:56,784]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:56,784]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:54.781254', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007927417755127, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:56,960]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:56,960]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:57,132]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:57,132]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:55.129073', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007760524749756, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:57,268]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:57,269]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:57,597]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:04:57,597]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:04:58,964]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:58,965]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:56.960927', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000798463821411, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:59,273]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:59,273]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:57.269751', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003421306610107, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:04:59,601]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:04:59,601]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:04:57.597868', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000596046447754, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:39,938]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:39,939]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:40,246]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:40,246]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:40,555]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:40,555]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:41,943]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:41,944]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:39.939576', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001671314239502, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:42,250]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:42,250]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:40.246403', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011096000671387, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:42,487]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:42,487]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:42,559]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:42,559]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:40.555336', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000988006591797, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:42,750]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:42,750]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:43,045]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:19:43,046]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:19:44,491]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:44,491]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:42.487365', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015993118286133, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:44,754]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:44,755]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:42.750213', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001521110534668, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:19:45,051]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:19:45,051]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:19:43.046989', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010786056518555, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:07,421]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:07,421]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:07,724]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:07,725]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:08,062]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:08,062]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:09,425]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:09,425]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:07.421401', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001359224319458, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:09,729]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:09,729]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:07.725836', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009067058563232, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:09,879]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:09,879]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:10,066]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:10,066]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:08.062637', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000495433807373, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:10,180]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:10,180]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:10,525]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:38:10,525]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:38:11,882]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:11,882]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:09.879630', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000234365463257, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:12,184]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:12,184]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:10.180066', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012409687042236, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:38:12,528]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:38:12,528]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:38:10.525397', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015780925750732, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:26,681]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:26,682]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:27,005]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:27,005]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:27,347]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:27,348]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:28,685]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:28,685]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:26.682564', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000844717025757, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:29,008]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:29,008]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:27.005307', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000661611557007, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:29,167]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:29,167]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:29,351]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:29,351]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:27.348548', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013678073883057, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:29,472]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:29,472]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:29,816]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:45:29,816]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:45:31,171]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:31,171]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:29.167876', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010054111480713, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:31,475]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:31,475]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:29.472847', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0001540184020996, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:45:31,819]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:45:31,819]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:45:29.816017', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008819103240967, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:33,541]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:33,541]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:33,839]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:33,839]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:34,158]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:34,158]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:35,545]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:35,545]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:33.541382', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014936923980713, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:35,843]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:35,843]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:33.839236', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009610652923584, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:36,070]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:36,070]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:36,162]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:36,162]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:34.158108', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000880479812622, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:36,318]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:36,318]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:36,630]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:51:36,630]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:51:38,073]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:38,073]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:36.070052', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011556148529053, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:38,322]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:38,322]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:36.318910', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000613212585449, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:51:38,635]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:51:38,635]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:51:36.630865', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001408100128174, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:35,994]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:35,994]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:36,296]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:36,297]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:36,636]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:36,637]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:37,997]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:37,997]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:35.994006', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0000500679016113, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:38,300]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:38,300]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:36.297846', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008578300476074, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:38,495]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:38,495]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:38,640]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:38,640]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:36.637865', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006892681121826, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:38,776]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:38,776]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:39,085]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-15 10:56:39,085]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-15 10:56:40,499]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:40,499]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:38.495592', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001276731491089, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:40,779]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:40,779]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:38.776463', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009279251098633, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-15 10:56:41,089]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-15 10:56:41,089]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-15 10:56:39.085330', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000864267349243, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:36,066]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:36,066]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:36,384]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:36,384]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:36,711]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:36,712]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:38,071]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:38,071]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:36.066816', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012452602386475, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:38,389]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:38,389]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:36.384634', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005855560302734, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:38,541]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:38,541]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:38,716]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:38,716]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:36.712446', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015974044799805, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:38,848]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:38,848]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:39,162]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-19 10:05:39,162]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-19 10:05:40,545]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:40,545]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:38.541130', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001359462738037, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:40,854]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:40,854]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:38.848955', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001389741897583, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-19 10:05:41,166]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-19 10:05:41,166]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-19 10:05:39.162304', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008809566497803, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:31,813]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:31,813]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:32,136]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:32,136]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:32,465]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:32,465]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:33,817]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:33,817]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:31.813761', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001220941543579, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:34,140]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:34,140]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:32.136396', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001284122467041, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:34,289]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:34,290]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:34,469]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:34,469]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:32.465912', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007152557373047, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:34,590]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:34,591]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:34,914]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 14:15:34,914]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 14:15:36,294]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:36,294]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:34.290593', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001765251159668, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:36,594]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:36,594]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:34.590556', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0000874996185303, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 14:15:36,918]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 14:15:36,918]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 14:15:34.914957', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000236749649048, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:06:58,947]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:06:58,947]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:06:59,256]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:06:59,257]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:06:59,654]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:06:59,654]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:07:00,950]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:00,950]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:06:58.947173', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001661777496338, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:07:01,262]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:01,262]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:06:59.257226', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000932455062866, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:07:01,427]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:07:01,427]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:07:01,658]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:01,658]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:06:59.654117', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010881423950195, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:07:01,724]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:07:01,724]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:07:02,086]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-21 15:07:02,086]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-21 15:07:03,430]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:03,430]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:07:01.427061', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004522800445557, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:07:03,728]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:03,728]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:07:01.724153', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015628337860107, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-21 15:07:04,088]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-21 15:07:04,088]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-21 15:07:02.086061', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008065700531006, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:36:59,225]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:36:59,226]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:36:59,653]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:36:59,653]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:36:59,857]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:36:59,857]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:37:01,229]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:01,229]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:36:59.226487', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011911392211914, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:37:01,657]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:01,657]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:36:59.653194', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0018255710601807, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:37:01,676]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:37:01,677]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:37:01,861]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:01,861]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:36:59.857594', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006155967712402, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:37:02,137]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:37:02,137]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:37:02,314]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 08:37:02,314]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 08:37:03,680]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:03,680]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:37:01.677008', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001345157623291, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:37:04,141]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:04,142]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:37:02.137919', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001953601837158, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 08:37:04,319]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 08:37:04,319]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 08:37:02.314833', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016884803771973, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:20:11,113]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:20:11,114]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:20:11,639]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:20:11,639]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:20:13,118]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:20:13,118]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:20:11.113885', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001300811767578, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:20:13,643]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:20:13,643]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:20:11.639755', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006752014160156, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:20:13,658]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:20:13,658]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:20:14,112]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:20:14,112]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:20:15,662]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:20:15,662]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:20:13.658434', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012264251708984, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:20:16,116]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:20:16,116]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:20:14.112864', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009796619415283, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:24:46,301]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:24:46,301]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:24:46,736]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:24:46,736]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:24:48,305]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:24:48,305]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:24:46.301726', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004518032073975, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:24:48,740]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:24:48,740]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:24:46.736211', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008811950683594, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:24:48,805]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:24:48,805]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:24:49,212]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:24:49,213]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:24:50,809]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:24:50,809]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:24:48.805041', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001204490661621, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:24:51,216]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:24:51,216]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:24:49.213002', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001202344894409, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:25:11,083]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:25:11,083]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:25:11,615]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:25:11,616]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:25:13,088]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:25:13,088]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:25:11.083596', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001643419265747, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:25:13,582]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:25:13,582]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:25:13,619]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:25:13,619]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:25:11.616414', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012805461883545, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:25:14,074]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:25:14,074]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:25:15,586]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:25:15,586]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:25:13.582477', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001690149307251, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:25:16,077]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:25:16,077]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:25:14.074489', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003910064697266, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:28:23,095]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:28:23,095]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:28:23,629]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:28:23,629]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:28:25,099]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:28:25,099]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:28:23.095013', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012035369873047, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:28:25,600]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:28:25,600]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:28:25,633]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:28:25,633]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:28:23.629900', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011000633239746, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:28:26,097]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:28:26,098]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:28:27,605]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:28:27,605]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:28:25.600887', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013225078582764, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:28:28,101]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:28:28,101]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:28:26.098000', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0017147064208984, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:51:41,368]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:51:41,368]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:51:41,906]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:51:41,906]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:51:43,372]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:51:43,372]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:51:41.368419', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016109943389893, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:51:43,871]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:51:43,872]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:51:43,910]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:51:43,910]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:51:41.906949', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012853145599365, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:51:44,413]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 10:51:44,413]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 10:51:45,875]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:51:45,875]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:51:43.872493', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005831718444824, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 10:51:46,417]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 10:51:46,417]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 10:51:44.413755', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001447916030884, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:11:03,222]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:11:03,222]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:11:03,741]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:11:03,741]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:11:05,226]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:11:05,226]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:11:03.222603', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008883476257324, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:11:05,567]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:11:05,567]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:11:05,745]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:11:05,745]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:11:03.741130', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001047372817993, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:11:06,065]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:11:06,065]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:11:07,571]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:11:07,571]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:11:05.567282', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009689331054688, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:11:08,069]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:11:08,069]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:11:06.065742', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003411769866943, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:15:15,185]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:15:15,185]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:15:15,716]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:15:15,716]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:15:17,189]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:15:17,189]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:15:15.185510', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000929355621338, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:15:17,527]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:15:17,527]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:15:17,720]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:15:17,720]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:15:15.716096', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011446475982666, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:15:18,046]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:15:18,046]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:15:19,531]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:15:19,531]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:15:17.527895', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003488063812256, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:15:20,050]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:15:20,050]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:15:18.046370', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008318424224854, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:51:58,247]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:51:58,247]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:51:58,809]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:51:58,809]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:52:00,251]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:52:00,251]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:51:58.247348', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008280277252197, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:52:00,589]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:52:00,589]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:52:00,813]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:52:00,813]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:51:58.809153', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008866786956787, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:52:01,112]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 11:52:01,112]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 11:52:02,593]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:52:02,593]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:52:00.589265', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010085105895996, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 11:52:03,115]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 11:52:03,115]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 11:52:01.112997', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009584426879883, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 14:01:58,090]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 14:01:58,090]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 14:01:58,399]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 14:01:58,399]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 14:01:58,742]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 14:01:58,743]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 14:02:00,094]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 14:02:00,094]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 14:01:58.090061', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012640953063965, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 14:02:00,402]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 14:02:00,402]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 14:01:58.399275', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000619888305664, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 14:02:00,746]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 14:02:00,746]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 14:01:58.743074', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001594066619873, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:37:54,617]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:37:54,617]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:37:54,912]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:37:54,912]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:37:55,277]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:37:55,278]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:37:56,621]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:37:56,621]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:37:54.617453', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005881786346436, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:37:56,916]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:37:56,916]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:37:54.912610', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0017645359039307, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:37:57,281]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:37:57,281]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:37:55.278495', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001328229904175, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:41:05,102]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:41:05,103]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:41:05,479]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:41:05,479]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:41:05,762]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 15:41:05,763]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 15:41:07,106]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:41:07,107]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:41:05.103554', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007483959198, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:41:07,483]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:41:07,483]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:41:05.479922', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000263214111328, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 15:41:07,767]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 15:41:07,767]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 15:41:05.763937', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014097690582275, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:04:45,983]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:04:45,983]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:04:46,316]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:04:46,316]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:04:46,637]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:04:46,637]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:04:47,987]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:04:47,988]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:04:45.983831', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000420570373535, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:04:48,320]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:04:48,320]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:04:46.316682', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014617443084717, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:04:48,640]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:04:48,640]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:04:46.637761', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000959873199463, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:08,743]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:08,743]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:09,118]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:09,118]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:09,400]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:09,400]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:10,746]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:10,746]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:08.743409', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010077953338623, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:11,100]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:11,100]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:11,122]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:11,122]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:09.118279', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010697841644287, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:11,404]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:11,404]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:09.400923', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000807523727417, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:11,415]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:11,415]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:11,709]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:09:11,710]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:09:13,104]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:13,104]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:11.100224', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012261867523193, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:13,419]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:13,419]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:11.415728', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005929470062256, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:09:13,713]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:09:13,713]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:09:11.710949', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006349086761475, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:20,818]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:20,818]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:21,194]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:21,195]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:21,488]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:21,489]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:22,821]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:22,821]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:20.818214', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000913381576538, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:23,155]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:23,155]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:23,198]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:23,198]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:21.194663', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000584840774536, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:23,492]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:23,492]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:21.489008', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012800693511963, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:23,518]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:23,518]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:23,786]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:10:23,786]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:10:25,159]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:25,159]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:23.155975', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000699758529663, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:25,522]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:25,522]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:23.518271', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008230209350586, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:10:25,790]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:10:25,790]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:10:23.786787', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000455141067505, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:48,520]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:48,520]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:48,848]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:48,849]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:49,231]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:49,232]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:50,523]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:50,523]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:48.520365', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001009464263916, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:50,851]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:50,851]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:48.849218', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007426738739014, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:50,853]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:50,853]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:51,147]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:51,147]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:51,235]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:51,235]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:49.232334', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0009028911590576, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:51,582]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:11:51,582]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:11:52,857]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:52,857]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:50.853946', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002973079681396, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:53,151]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:53,151]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:51.147854', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000384569168091, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:11:53,585]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:11:53,585]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:11:51.582357', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002734661102295, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:18,743]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:18,743]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:19,122]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:19,122]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:19,398]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:19,398]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:20,747]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:20,747]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:18.743914', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005428791046143, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:21,094]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:21,094]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:21,125]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:21,125]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:19.122149', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000943660736084, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:21,401]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:21,401]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:19.398011', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016162395477295, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:21,415]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:21,416]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:21,692]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:18:21,692]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:18:23,097]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:23,097]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:21.094199', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007357597351074, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:23,420]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:23,420]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:21.416605', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001797914505005, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:18:23,696]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:18:23,696]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:18:21.692665', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005500316619873, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:15,435]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:15,436]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:15,781]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:15,781]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:16,159]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:16,159]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:17,439]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:17,439]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:15.436194', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011487007141113, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:17,785]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:17,785]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:15.781814', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000575304031372, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:18,163]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:18,163]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:16.159903', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000363349914551, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:29,332]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:29,332]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:29,720]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:29,720]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:29,998]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:20:29,999]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:20:31,335]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:31,335]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:29.332635', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000946044921875, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:31,724]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:31,724]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:29.720658', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000546932220459, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:20:32,001]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:20:32,001]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:20:29.999382', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0005369186401367, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:15,916]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:15,917]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:16,277]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:16,277]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:16,556]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:16,556]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:17,920]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:17,920]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:15.916608', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000586986541748, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:18,281]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:18,281]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:16.277787', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004098415374756, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:18,558]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:18,558]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:16.556079', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000699043273926, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:41,017]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:41,017]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:41,389]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:41,389]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:41,672]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 16:51:41,672]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 16:51:43,020]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:43,020]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:41.017141', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004217624664307, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:43,393]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:43,393]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:41.389409', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006022453308105, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 16:51:43,675]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 16:51:43,675]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 16:51:41.672460', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000488758087158, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:20:37,952]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:20:37,952]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:20:38,246]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:20:38,247]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:20:38,622]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:20:38,622]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:20:39,955]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:20:39,955]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:20:37.952699', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002927780151367, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:20:40,250]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:20:40,250]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:20:38.247344', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011532306671143, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:20:40,626]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:20:40,626]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:20:38.622446', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0018818378448486, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:26:18,931]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:26:18,931]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:26:19,262]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:26:19,263]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:26:19,574]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:26:19,574]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:26:20,934]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:26:20,934]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:26:18.931012', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0016725063323975, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:26:21,266]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:26:21,266]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:26:19.263278', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000908613204956, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:26:21,578]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:26:21,578]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:26:19.574946', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000749349594116, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:31:55,995]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:31:55,996]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:31:56,290]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:31:56,290]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:31:56,630]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:31:56,631]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:31:57,999]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:31:57,999]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:31:55.996515', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001220703125, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:31:58,294]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:31:58,294]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:31:56.290824', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003368854522705, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:31:58,634]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:31:58,634]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:31:56.631021', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011777877807617, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:27,374]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:27,375]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:27,770]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:27,770]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:28,062]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:28,062]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:29,378]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:29,378]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:27.375625', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013227462768555, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:29,774]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:29,774]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:27.770984', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000547409057617, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:30,066]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:30,066]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:28.062816', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003349781036377, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:41,757]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:41,758]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:42,066]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:42,066]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:42,447]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:33:42,448]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:33:43,760]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:43,760]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:41.758115', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000744104385376, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:44,070]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:44,071]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:42.066989', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010805130004883, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:33:44,451]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:33:44,451]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:33:42.448416', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000595808029175, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:40:34,978]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:40:34,978]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:40:35,288]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:40:35,289]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:40:35,621]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-22 17:40:35,621]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-22 17:40:36,981]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:40:36,981]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:40:34.978439', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0000762939453125, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:40:37,292]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:40:37,292]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:40:35.289244', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001016855239868, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-22 17:40:37,624]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-22 17:40:37,624]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-22 17:40:35.621297', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001124382019043, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:36:58,393]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:36:58,393]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:36:58,770]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:36:58,770]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:36:59,042]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:36:59,042]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:37:00,396]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:00,396]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:36:58.393863', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010228157043457, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:37:00,719]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:37:00,719]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:37:00,774]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:00,774]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:36:58.770735', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0010950565338135, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:37:01,046]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:01,046]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:36:59.042791', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000325918197632, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:37:01,103]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:37:01,104]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:37:01,301]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 08:37:01,301]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 08:37:02,723]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:02,723]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:37:00.719919', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001255512237549, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:37:03,106]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:03,106]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:37:01.103080', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000549793243408, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 08:37:03,304]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 08:37:03,304]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 08:37:01.301060', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007150173187256, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:22:46,277]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:22:46,277]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:22:46,597]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:22:46,598]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:22:46,989]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:22:46,989]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:22:48,282]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:22:48,282]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:22:46.277891', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.00128436088562, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:22:48,601]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:22:48,601]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:22:46.598978', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000746011734009, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:22:48,993]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:22:48,993]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:22:46.989358', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008203983306885, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:39:26,938]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:39:26,938]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:39:27,249]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:39:27,249]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:39:27,583]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:39:27,583]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:39:28,943]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:39:28,943]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:39:26.938859', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013790130615234, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:39:29,253]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:39:29,254]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:39:27.249978', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001215696334839, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:39:29,587]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:39:29,587]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:39:27.583829', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003273487091064, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:41:42,252]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:41:42,252]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:41:42,560]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:41:42,560]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:41:42,939]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:41:42,940]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:41:44,256]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:41:44,256]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:41:42.252563', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0007457733154297, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:41:44,563]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:41:44,563]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:41:42.560084', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011513233184814, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:41:44,943]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:41:44,943]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:41:42.940230', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014705657958984, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:23,658]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:23,658]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:23,994]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:23,994]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:24,299]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:24,300]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:25,662]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:25,663]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:23.658088', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011332035064697, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:25,997]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:25,997]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:23.994659', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000189781188965, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:26,303]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:26,303]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:24.300022', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011725425720215, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:45,975]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:45,975]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:46,367]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:46,367]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:46,621]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 09:44:46,621]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 09:44:47,978]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:47,978]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:45.975919', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000856399536133, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:48,371]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:48,371]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:46.367248', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000859022140503, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 09:44:48,625]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 09:44:48,625]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 09:44:46.621717', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000641345977783, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 10:17:22,855]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 10:17:22,855]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 10:17:23,155]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 10:17:23,155]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 10:17:23,549]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 10:17:23,549]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 10:17:24,858]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 10:17:24,858]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 10:17:22.855832', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000149965286255, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 10:17:25,159]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 10:17:25,160]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 10:17:23.155629', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015616416931152, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 10:17:25,553]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 10:17:25,553]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 10:17:23.549991', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0012035369873047, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:05:52,585]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:05:52,586]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:05:52,883]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:05:52,884]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:05:53,287]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:05:53,287]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:05:54,588]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:05:54,588]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:05:52.586162', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.00065279006958, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:05:54,888]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:05:54,888]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:05:52.883827', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015134811401367, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:05:55,292]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:05:55,293]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:05:53.287940', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011606216430664, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:13:00,165]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:13:00,166]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:13:00,521]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:13:00,521]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:13:00,807]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:13:00,807]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:13:02,169]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:13:02,169]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:13:00.166957', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006637573242188, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:13:02,524]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:13:02,524]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:13:00.521594', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000882625579834, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:13:02,810]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:13:02,811]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:13:00.807840', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000814437866211, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:05,806]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:05,806]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:06,182]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:06,182]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:06,457]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:06,457]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:07,810]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:07,810]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:05.806840', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008463859558105, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:08,186]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:08,186]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:06.182245', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008955001831055, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:08,460]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:08,460]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:06.457783', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000805377960205, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:52,439]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,439]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:52,538]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,539]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:52,643]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,643]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:52,745]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,745]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:52,845]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,845]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:52,943]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:17:52,943]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:17:54,443]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,443]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.439894', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000432014465332, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:54,542]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,542]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.539837', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000929355621338, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:54,648]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,648]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.643777', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001643419265747, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:54,749]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,749]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.745719', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004866123199463, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:54,848]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,848]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.845663', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002365112304688, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:17:54,947]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:17:54,947]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:17:52.943606', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0003883838653564, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:43,815]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:43,815]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:43,913]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:43,913]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:44,013]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:44,013]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:44,115]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:44,115]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:44,212]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:44,212]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:44,306]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 11:18:44,306]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 11:18:45,819]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:45,819]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:43.815626', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0006375312805176, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:45,917]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:45,917]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:43.913570', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0008585453033447, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:46,017]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:46,017]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:44.013513', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.000788927078247, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:46,119]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:46,119]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:44.115455', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0019171237945557, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:46,215]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:46,215]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:44.212400', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0002150535583496, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 11:18:46,310]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 11:18:46,310]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 11:18:44.306348', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0014872550964355, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:13,430]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:13,430]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:13,786]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:13,786]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:14,130]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:14,130]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:15,433]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:15,433]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:13.430077', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0013153553009033, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:15,736]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:15,737]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:15,789]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:15,789]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:13.786211', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.001350164413452, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:16,109]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:16,109]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:16,134]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:16,134]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:14.130521', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011706352233887, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:16,391]-[CRITICAL]-[main]-[59]   Run Test: ASyncGetHistoryDataObjectRecordSets_1
+[2019-08-23 17:52:16,391]-[INFO]-[history_pb_requests]-[19]   start make pb_request.
+[2019-08-23 17:52:17,740]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:17,741]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:15.737219', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0015835762023926, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:18,113]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:18,114]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:16.109653', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0004382133483887, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
+[2019-08-23 17:52:18,395]-[INFO]-[api]-[267]   async_GetHistoryDataObjectRecordSetsRequest success!
+[2019-08-23 17:52:18,395]-[CRITICAL]-[main]-[71]   {'case_id': 'ASyncGetHistoryDataObjectRecordSets_1', 'date': '2019-08-23 17:52:16.391527', 'status': '结束', 'exec_point': 'end', 'result_code': 1, 'totle_time': 2.0011560916900635, 'check_case': '暂时没想到咋校验', 'check_result': 'success', 'data_count': 0}
